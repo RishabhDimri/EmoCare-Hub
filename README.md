@@ -15,6 +15,17 @@ enhancing its ability to provide meaningful and individualized support. We're co
 <img width="941" alt="image" src="https://github.com/RishabhDimri/EmoCare-Hub/assets/92168403/85960f0a-3150-44cf-8956-ff9ebd3ab32b">
 
 3.Home Page:
-<img width="941" alt="image" src="https://github.com/RishabhDimri/EmoCare-Hub/assets/92168403/85960f0a-3150-44cf-8956-ff9ebd3ab32b">
+<img width="926" alt="image" src="https://github.com/RishabhDimri/EmoCare-Hub/assets/92168403/222c9ae4-8ddd-4d11-ac57-232fcd88b77f">
+<img width="939" alt="image" src="https://github.com/RishabhDimri/EmoCare-Hub/assets/92168403/d8598de6-4744-4858-a730-589e12f0a6c7">
+
+
+4.About Page:
+<img width="920" alt="image" src="https://github.com/RishabhDimri/EmoCare-Hub/assets/92168403/ad9ee548-1e23-4701-a9ba-c968dbd66dc9">
+<img width="939" alt="image" src="https://github.com/RishabhDimri/EmoCare-Hub/assets/92168403/ff9f4602-6213-4b32-9aee-e3de7e8a164e">
+
+5.ChatBot:
+<img width="819" alt="image" src="https://github.com/RishabhDimri/EmoCare-Hub/assets/92168403/a8efadfa-373e-4f53-948e-25a174dcc92c">
+<img width="882" alt="image" src="https://github.com/RishabhDimri/EmoCare-Hub/assets/92168403/fd6cced0-2456-4925-b286-453e41c70ae8">
+
 
 
