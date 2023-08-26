@@ -1,6 +1,7 @@
 # EmoCare-Hub
 # Problem-Statement
 HackCog IIIT, Delhi (24-25 Aug, 2023)
+
 Depression is a widespread mental health condition affecting millions of individuals worldwide. Timely detection and intervention are crucial for effective management and prevention of its adverse impacts. 
 Develop an innovative software application that helps in detecting and analysing depression based on symptoms and recommend psychologist to the user.
 # Solution
