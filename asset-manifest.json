@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/EcoCare-Hub/static/css/main.ae81b050.css",
+    "main.js": "/EcoCare-Hub/static/js/main.0724647c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/EcoCare-Hub/static/js/787.28cb0dcd.chunk.js",
+    "static/media/background.jpg": "/EcoCare-Hub/static/media/background.59bbe02fa2da3403e2e4.jpg",
+    "static/media/image.png": "/EcoCare-Hub/static/media/image.0433085c3c4473729c96.png",
+    "static/media/main.png": "/EcoCare-Hub/static/media/main.7574a70cac49a6a43b07.png",
+    "index.html": "/EcoCare-Hub/index.html",
+    "main.ae81b050.css.map": "/EcoCare-Hub/static/css/main.ae81b050.css.map",
+    "main.0724647c.js.map": "/EcoCare-Hub/static/js/main.0724647c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/EcoCare-Hub/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae81b050.css",
+    "static/js/main.0724647c.js"
+  ]
+}
