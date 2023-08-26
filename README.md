@@ -29,9 +29,9 @@ enhancing its ability to provide meaningful and individualized support. We're co
 
 
 5.ChatBot:
-<img width="819" alt="image" src="https://github.com/RishabhDimri/EmoCare-Hub/assets/92168403/a8efadfa-373e-4f53-948e-25a174dcc92c">
+<img width="920" alt="image" src="https://github.com/RishabhDimri/EmoCare-Hub/assets/92168403/a8efadfa-373e-4f53-948e-25a174dcc92c">
 
-<img width="882" alt="image" src="https://github.com/RishabhDimri/EmoCare-Hub/assets/92168403/fd6cced0-2456-4925-b286-453e41c70ae8">
+<img width="920" alt="image" src="https://github.com/RishabhDimri/EmoCare-Hub/assets/92168403/fd6cced0-2456-4925-b286-453e41c70ae8">
 
 
 
