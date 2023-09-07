@@ -3,7 +3,6 @@ AI ChatBot using Python Tensorflow and Natural Language Processing (NLP) along s
 Hey Guys!! Want to Learn about ChatBots? So the Solution is Here.
 
 
-We Explain about these Topics in Our Tutorial Visit - Youtube -https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1
 1. What are ChatBots?
 2. What ChatBots Can Do?
 3. Architecture and Working of ChatBots
